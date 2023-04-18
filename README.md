@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [Video 2 of Blog Application](https://www.youtube.com/watch?v=teWwO-KCuzI&list=PL_6klLfS1WqHNuSuL25VSgiuuFoEvLVqy&index=5)
 
 
@@ -25,3 +26,6 @@ Backend Database Server ==> Create a folder "server" for the backend of the proj
 
 Frontend Client Folder
 1. npm i axios
+=======
+# BlogNation
+>>>>>>> a4dbae58488b2508f00537410eff20250350a213
